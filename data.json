@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gourmet Burger",
+      "description": "A succulent beef patty topped with fresh lettuce, tomatoes, and our special sauce, served on a toasted brioche bun.",
+      "price": 12.99,
+      "image": "4.jpg",
+      "rate": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Mediterranean Salad",
+      "description": "A refreshing mix of crisp greens, feta cheese, olives, and cherry tomatoes, drizzled with a tangy vinaigrette.",
+      "price": 8.5,
+      "image": "5.jpg",
+      "rate": 4.5
+    },
+    {
+      "id": 3,
+      "name": "Spaghetti Carbonara",
+      "description": "Classic Italian pasta dish made with eggs, cheese, pancetta, and pepper, perfectly cooked to al dente.",
+      "price": 14.75,
+      "image": "3.jpg",
+      "rate": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Mango Smoothie",
+      "description": "A creamy blend of ripe mangoes, yogurt, and a touch of honey, perfect for a refreshing treat.",
+      "price": 5.0,
+      "image": "4.jpg",
+      "rate": 4.9
+    },
+    {
+      "id": 5,
+      "name": "Chocolate Lava Cake",
+      "description": "Decadent chocolate cake with a gooey molten center, served warm with a scoop of vanilla ice cream.",
+      "price": 6.5,
+      "image": "5.jpg",
+      "rate": 4.6
+    }
+  ]
+}
